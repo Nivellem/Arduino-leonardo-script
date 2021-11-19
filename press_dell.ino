@@ -9,5 +9,4 @@ void loop()
   Keyboard.press(KEY_DELETE);
   delay(100);
   Keyboard.releaseAll();
-  while(20);
 }
